@@ -1,6 +1,5 @@
 # Hi! I am Aku!
 
-I am form Blah! Blah! Blah 
 
 
 ## About me
