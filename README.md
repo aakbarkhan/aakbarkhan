@@ -1,7 +1,15 @@
-# Hi! I am Aku
+# Hi! I am Aku!
+
+I am form Blah! Blah! Blah 
 
 
 ## About me
+
+## Like 
+
+
+## Dislike
+
 JavaScript.
 Ruby on Rails.
 Python.
