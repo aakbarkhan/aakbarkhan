@@ -10,7 +10,7 @@ I am Aku from India and I am a Microverse Student. I enjoy learning programming 
 
 
 - 🔭 I’m currently working on web-development skills
-- 🌱 I’m currently learning JavaScript, React, Redux, Ruby
+- 🌱 I’m currently learning JavaScript, React, Redux, Ruby on Rails, PostgreSQL, Rspec.
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akbar-khan-b57709182/)
 - ⚡ Fun fact: equal or strict equal. Nice pair of shoes.
