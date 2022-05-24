@@ -6,7 +6,7 @@ I am Aku from India and I am a Microverse Student. I enjoy learning programming 
 
 ## Skills and Experience:
 
-💻 - JS / React / Redux / Ruby on Rails / PYTHON / HTML / CSS / Bootstrap
+💻 - JS / React / Redux / Ruby on Rails / PostgreSQL / PYTHON / HTML / CSS / Bootstrap
 
 
 - 🔭 I’m currently working on web-development skills
