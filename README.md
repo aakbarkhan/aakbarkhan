@@ -1,6 +1,6 @@
 # Hi! I am Aku! 👋 
 
-#### Full-Stack Developer(soon)
+#### Full-Stack Developer
 
 I am Aku from India and I am a Microverse Student. I enjoy learning programming languages and working on different development projects.
 
