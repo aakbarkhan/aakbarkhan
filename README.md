@@ -1,6 +1,6 @@
 # Hi! I am Aku! 👋 
 
-#### Full-Stack Developer
+#### Full-Stack Developer.
 
 I am Aku and I enjoy learning programming languages and working on different development projects.
 
