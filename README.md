@@ -6,7 +6,7 @@ I am Aku and I enjoy learning programming languages and working on different dev
 
 ## Skills and Experience:
 
-💻 - JS / React / Redux / Ruby on Rails / PostgreSQL / HTML / CSS / Bootstrap.
+💻 - JS / React / Redux / Ruby / Ruby on Rails / PostgreSQL / HTML / CSS / Bootstrap.
 
 
 - 🔭 I’m currently working on web-development skills.
