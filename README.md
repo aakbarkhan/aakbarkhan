@@ -2,7 +2,7 @@
 
 #### Full-Stack Developer.
 
-I am Aku and I enjoy learning programming languages and working on different development projects. 
+I am Aku and I enjoy learning programming and working on different development projects. 
 
 ## Skills and Experience:
 
