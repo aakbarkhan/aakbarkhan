@@ -6,9 +6,10 @@ My journey into the world of programming began out of curiosity. I was always fa
 
 The challenges I faced and the satisfaction of overcoming them made me realize that programming is not just about writing code, it's about problem-solving, continuous learning, and perseverance. It's been a rewarding journey so far, and I'm excited about the endless possibilities that lie ahead.
 
+
 ## Skills and Experience:
 
-💻 - JS / React / Redux / Ruby / Ruby on Rails / PostgreSQL / HTML / CSS / Bootstrap.
+💻 - JS/ Nodejs / React / Redux / Ruby / Ruby on Rails / PostgreSQL / HTML / CSS / Bootstrap.
 
 
 - 🔭 I’m currently working on web development skills.
